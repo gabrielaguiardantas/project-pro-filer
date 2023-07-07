@@ -8,3 +8,5 @@ Vigésimo nono projeto do curso de desenvolvimento Web da Trybe e primeiro do m�
  - Utilizar o pytest para criar testes automatizados em uma aplicação escrita em Python.
 
 ## Features implementadas: ##
+
+![features-project29](https://github.com/gabrielaguiardantas/project-pro-filer/assets/110852595/270b6ce5-a400-43df-9f0f-a6eb82f2c404)
